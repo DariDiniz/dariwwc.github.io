@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
+
+* {font-family: 'Roboto', sans-serif;}
+
+.green-txt{color:#54D1BB;}
+
+.white-txt{color: white;}
+
+.blue-txt{color:#2F4076;}
+
+.yellow-txt{color:#F1C205;}
+
+.purple-txt{color:#3D1E69;}
+
+.grey-txt{color:#3E3B3B;}
+
+/* MENU */
