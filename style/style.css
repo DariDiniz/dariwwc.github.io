@@ -15,3 +15,9 @@
 .grey-txt{color:#3E3B3B;}
 
 /* MENU */
+.header {
+    width: 100%;
+    padding: 40px 100px 20px;
+    background: linear-gradient(180deg, #2f4076 0%, rgba(47, 64, 118, 0.84) 100%);
+    
+}
