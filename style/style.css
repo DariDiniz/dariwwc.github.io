@@ -39,10 +39,11 @@
 }
 .img-logo{
     width: 200px;
+
 }
 nav{
     display: flex;
-    align-items: center;
+    align-items: flex-end;
 }
 .header_logo {
     align-items: center;
